@@ -3,9 +3,9 @@ import "./App.css";
 
 const projects = [
   {
-    title: "Gamified EdTech Platform for Somaiya",
+    title: "Gamified EdTech Platform",
     description: `
-    An educational platform that converts university syllabus topics into interactive learning experiences. It contains module-wise simulations, videos, infographics, mind maps, and learning resources to help students understand concepts visually instead of only reading theory.
+    Developed as part of my second-year internship, this educational platform converts university syllabus topics into interactive learning experiences. It contains module-wise simulations, videos, infographics, mind maps, and learning resources to help students understand concepts visually instead of only reading theory.
     `,
     features: [
       "Module-wise organization of content",
